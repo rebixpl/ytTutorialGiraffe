@@ -16,6 +16,10 @@ namespace ytTutorialGiraffe
             Console.WriteLine(Movie.movieCount);
 
             Console.WriteLine(book1.title);
+
+            //---------------- Static Methods and Classes --------------------------
+            UsefulTools.SayHi("Johnov");
+
             Console.ReadLine();
         }
     }
