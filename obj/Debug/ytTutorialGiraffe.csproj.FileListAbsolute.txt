@@ -1,0 +1,7 @@
+E:\Programming\C#\ytTutorialGiraffe\bin\Debug\ytTutorialGiraffe.exe.config
+E:\Programming\C#\ytTutorialGiraffe\bin\Debug\ytTutorialGiraffe.exe
+E:\Programming\C#\ytTutorialGiraffe\bin\Debug\ytTutorialGiraffe.pdb
+E:\Programming\C#\ytTutorialGiraffe\obj\Debug\ytTutorialGiraffe.csprojAssemblyReference.cache
+E:\Programming\C#\ytTutorialGiraffe\obj\Debug\ytTutorialGiraffe.csproj.CoreCompileInputs.cache
+E:\Programming\C#\ytTutorialGiraffe\obj\Debug\ytTutorialGiraffe.exe
+E:\Programming\C#\ytTutorialGiraffe\obj\Debug\ytTutorialGiraffe.pdb
